@@ -181,6 +181,30 @@ https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 #EXTINF:-60,Net Tv
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
+#EXTINF:-61,Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+
+#EXTINF:-62,Metro TV Canal 12 Tucuman
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+#EXTINF:-63,Mirador
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+
+#EXTINF:-64,Mix 24-7
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
+
+#EXTINF:-65,Multivisión
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1245545040.m3u8
+
+#EXTINF:-66,Musica Top
+http://live-edge01.telecentro.net.ar:80/live/msctphd-720/chunklist_w2003189695.m3u8
+
+#EXTINF:-67,Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF:-68,Planeta Junior Tv
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 
