@@ -97,6 +97,24 @@ https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
 #EXTINF:-32,Ciudad TV
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
+#EXTINF:-33,Canal Encuentro
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+
+#EXTINF:-34,Canal Nueve Tv
+https://live.canalnueve.tv/canal.m3u8
+
+#EXTINF:-35,Canal Nueve Parana
+https://5975e06a1f292.streamlock.net:4443/ahora/ahora/chunklist_w970179559.m3u8
+
+#EXTINF:-36,Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1070617370.m3u8
+
+#EXTINF:-37,Chic Magazine
+https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
+
+#EXTINF:-38,CL3 Cablevision
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w1972826446.m3u8
+
 
 
 
