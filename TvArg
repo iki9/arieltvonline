@@ -205,6 +205,24 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-68,Planeta Junior Tv
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-69,Play Television
+http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/chunklist_w451717029.m3u8
+
+#EXTINF:-70,Power Hd
+https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
+
+#EXTINF:-71,Provincial Tv
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+
+#EXTINF:-72,Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1820263746.m3u8
+
+#EXTINF:-73,Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1714640926.m3u8
+
+#EXTINF:-74,Rewind Tv
+https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w711178314.m3u8
+
 
 
 
