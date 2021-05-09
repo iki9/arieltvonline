@@ -115,6 +115,35 @@ https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
 #EXTINF:-38,CL3 Cablevision
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w1972826446.m3u8
 
+#EXTINF:-39,Cnr Jujuy
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+
+#EXTINF:-40,Cosmo
+http://91.126.141.201:1935/live/cosmoHD/.m3u8
+
+#EXTINF:-41,Crossing TV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+
+#EXTINF:-42,Cinco TV Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+#EXTINF:-43,Deportv
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+
+#EXTINF:-44,Eco Tv
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/chunklist_w701198253.m3u8
+
+#EXTINF:-45,Educa Tv
+https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
+
+#EXTINF:-46,El Chavo 24/7
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
+#EXTINF:-47,Espn 2
+http://23.237.78.54/live-1000/263/playlist.m3u8
+
+#EXTINF:-48,Flixtube
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 
 
