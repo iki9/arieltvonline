@@ -145,6 +145,24 @@ http://23.237.78.54/live-1000/263/playlist.m3u8
 #EXTINF:-48,Flixtube
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
+#EXTINF:-49,Fenix
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/chunklist_w760844289.m3u8
+
+#EXTINF:-50,Fm Giga 101.5 Neuquen
+https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
+
+#EXTINF:-51,Garage Tv
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1162828839_b746000_sleng.m3u8
+
+#EXTINF:-52,Gen Tv
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-53,Informacion Periodistica
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+
+#EXTINF:-54,Ip
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+
 
 
 
