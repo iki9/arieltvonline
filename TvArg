@@ -25,3 +25,17 @@ https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-7,RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
 
+#EXTINF:-8,Canal 2 San Luis
+https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
+
+#EXTINF:-9,Canal 4 Bahia Blanca
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+
+#EXTINF:-10,Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1358115952_b121000.m3u8
+
+#EXTINF:-11,Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/chunklist_w76099528.m3u8
+
+#EXTINF:-12,Canal 5 Tandil
+https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
