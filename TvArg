@@ -163,6 +163,24 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-54,Ip
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
+#EXTINF:-55,Latinos Up! Tv
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1484484201.m3u8?WebM3UCL
+
+#EXTINF:-56,La Voz de Tucuman
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1417561066.m3u8
+
+#EXTINF:-57,Litus
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/chunklist_w888252515_b348304.m3u8
+
+#EXTINF:-58,Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-59,LM 24 Río Gallegos
+https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
+
+#EXTINF:-60,Net Tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
 
 
 
