@@ -274,6 +274,9 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w960760
 #EXTINF:-91,Tierra mia Tv
 http://live-edge01.telecentro.net.ar:80/live/smil:trm.smil/chunklist_w466573542_b1864000_sleng.m3u8
 
+#EXTINF:-92,Telefe Neuquen
+https://neuquen.telefe.com/vivo
+
 
 
 
