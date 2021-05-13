@@ -274,10 +274,44 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w960760
 #EXTINF:-91,Tierra mia Tv
 http://live-edge01.telecentro.net.ar:80/live/smil:trm.smil/chunklist_w466573542_b1864000_sleng.m3u8
 
-#EXTINF:-92,Telefe Neuquen
-https://neuquen.telefe.com/vivo
+#EXTINF:-92,Tu Cine
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
+#EXTINF:-93,Tv Mana
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/chunklist_w217352228.m3u8
 
+#EXTINF:-94,Tvu la Plata
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+
+#EXTINF:-95,Uni Teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+#EXTINF:-96,UNIRIO
+https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/chunklist_w1560398999.m3u8
+
+#EXTINF:-97,Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+
+#EXTINF:-98,Valle Tv Neuquen
+https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
+
+#EXTINF:-99,6 Entre Ríos Tv
+https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
+
+#EXTINF:-99,9 Link
+http://www.coninfo.net:1935/9linklive/live/chunklist_w1971457543.m3u8
+
+#EXTINF:-100,10 Tv
+http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1300939119.m3u8
+
+#EXTINF:-101,15 Tv Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w115397915.m3u8
+
+#EXTINF:-102,24/7 
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+
+#EXTINF:-103,Neo Tv Digital
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 
