@@ -298,19 +298,19 @@ https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 #EXTINF:-99,6 Entre Ríos Tv
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
 
-#EXTINF:-99,9 Link
+#EXTINF:-100,9 Link
 http://www.coninfo.net:1935/9linklive/live/chunklist_w1971457543.m3u8
 
-#EXTINF:-100,10 Tv
+#EXTINF:-101,10 Tv
 http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1300939119.m3u8
 
-#EXTINF:-101,15 Tv Sabinas
+#EXTINF:-102,15 Tv Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w115397915.m3u8
 
-#EXTINF:-102,24/7 
+#EXTINF:-103,24/7 
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
-#EXTINF:-103,Neo Tv Digital
+#EXTINF:-104,Neo Tv Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
