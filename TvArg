@@ -322,8 +322,44 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-107,Telefe Neuquen
 https://neuquen.telefe.com/vivo
 
-#EXTINF:-108,CSTV
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w991651269.m3u8?WebM3UCL
+#EXTINF:-108,Telefe
+https://telefe.com/vivo/
+
+#EXTINF:-109,Telefe Tucuman
+https://tucuman.telefe.com/vivo
+
+#EXTINF:-110,Telefe Cordoba
+https://cordoba.telefe.com/vivo
+
+#EXTINF:-111,Telefe Rosario
+https://rosario.telefe.com/vivo
+
+#EXTINF:-112,Telefe Santa Fe
+https://santafe.telefe.com/vivo
+
+#EXTINF:-113,Telefe Salta
+https://salta.telefe.com/vivo
+
+#EXTINF:-114,Telefe Mar del Plata
+https://mardelplata.telefe.com/vivo
+
+#EXTINF:-115,Telefe Bahia Blanca
+https://bahiablanca.telefe.com/vivo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
