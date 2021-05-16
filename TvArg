@@ -105,7 +105,7 @@ https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-35,Canal Nueve Parana
 https://5975e06a1f292.streamlock.net:4443/ahora/ahora/chunklist_w970179559.m3u8
 
-#EXTINF:-36,Chaco TV
+#EXTINF:-36 tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png",Chaco TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1070617370.m3u8
 
 #EXTINF:-37,Chic Magazine
@@ -117,7 +117,7 @@ http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w197282644
 #EXTINF:-39,Cnr Jujuy
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-#EXTINF:-40,Cosmo
+#EXTINF:-40 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1200px-Cosmo_TV_logo.svg.pngg",Cosmo
 http://91.126.141.201:1935/live/cosmoHD/.m3u8
 
 #EXTINF:-41,Crossing TV
@@ -309,7 +309,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w115397915.m3u8
 #EXTINF:-103,24/7 
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
-#EXTINF:-104,Neo Tv Digital
+#EXTINF:-104 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" ,Neo Tv Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-105,Canal 4 Posadas
@@ -327,16 +327,16 @@ https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 #EXTINF:-109,Canal 4 Bahia Blanca
 https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 
-#EXTINF:-110,América Tucuman
+#EXTINF:-110 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png",América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
 #EXTINF:-111,Anime Zone Tv
 http://animeloving.net/hls/stream.m3u8
 
-#EXTINF:-112,Argentinisima Satelital
+#EXTINF:-112 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg",Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w361292135_b1912000_sleng.m3u8
 
-#EXTINF:-113,Hola Tv
+#EXTINF:-113 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg",Hola Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-114,Canal 6 Moreno
