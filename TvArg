@@ -75,7 +75,7 @@ https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:-25,Canal 22
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
-#EXTINF:-26,Canal 26
+#EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png",Canal 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/chunklist_w1344949987.m3u8
 
 #EXTINF:-27,Canal 50 Morteros
