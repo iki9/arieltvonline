@@ -9,7 +9,7 @@ https://neuquen.telefe.com/vivo
 #EXTINF:-3,Telefe Tucuman
 https://tucuman.telefe.com/vivo
 
-#EXTINF:-4,Telefe Cordoba
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png",Telefe Cordoba
 https://cordoba.telefe.com/vivo
 
 #EXTINF:-5,Telefe Rosario
