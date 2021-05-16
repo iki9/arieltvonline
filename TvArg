@@ -351,7 +351,7 @@ http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 #EXTINF:-117 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-117 ;TNT
+#EXTINF:-117,TNT
 https://www.ver-television.online/canal-tnt-en-vivo
 
 
