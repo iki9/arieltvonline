@@ -348,9 +348,8 @@ https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/pla
 #EXTINF:-116,Canal 11 Machagai Chaco
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
-#EXTINF:-117,Pluto Tv Cine Accion
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=7aaf057a-9f48-4b22-a9fa-81abf5492e14&deviceVersion=90.0.4430.212&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&deviceType=web&deviceMake=Chrome&sid=7e3954c9-b69b-11eb-9825-0242ac110002&advertisingId=&deviceLat=-38.3563&deviceLon=-68.7838&deviceDNT=0&deviceModel=web&userId=&appName=web
-
+#EXTINF:-117,Pluto Tv Cine Accion	
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=7aaf057a-9f48-4b22-a9fa-81abf5492e14&clientModelNumber=na&deviceDNT=false&deviceId=7aaf057a-9f48-4b22-a9fa-81abf5492e14&deviceLat=-38.3563&deviceLon=-68.7838&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=7e3954c9-b69b-11eb-9825-0242ac110002&sid=7e3954c9-b69b-11eb-9825-0242ac110002&userId=
 
 
 
