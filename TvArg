@@ -126,19 +126,19 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-42,Cinco TV Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-43,Deportv
+#EXTINF:-43 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png",Deportv
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-44,Eco Tv
+#EXTINF:-44 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" ,Eco Tv
 http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/chunklist_w701198253.m3u8
 
-#EXTINF:-45,Educa Tv
+#EXTINF:-45 tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa Tv
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 
 #EXTINF:-46,El Chavo 24/7
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 
-#EXTINF:-47,Espn 2
+#EXTINF:-47 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",Espn 2
 http://23.237.78.54/live-1000/263/playlist.m3u8
 
 #EXTINF:-48,Flixtube
@@ -150,7 +150,7 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/chunklist_w760844289.m3
 #EXTINF:-50,Fm Giga 101.5 Neuquen
 https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
 
-#EXTINF:-51,Garage Tv
+#EXTINF:-51 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png",Garage Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1162828839_b746000_sleng.m3u8
 
 #EXTINF:-52,Gen Tv
@@ -159,7 +159,7 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-53,Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
-#EXTINF:-54,Ip
+#EXTINF:-54 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg",Ip
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 #EXTINF:-55,Latinos Up! Tv
@@ -168,16 +168,16 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1484484201.m3
 #EXTINF:-56,La Voz de Tucuman
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1417561066.m3u8
 
-#EXTINF:-57,Litus
+#EXTINF:-57 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/chunklist_w888252515_b348304.m3u8
 
-#EXTINF:-58,Love Nature
+#EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU",Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-59,LM 24 Río Gallegos
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 
-#EXTINF:-60,Net Tv
+#EXTINF:-60 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" ,Net Tv
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-61,Medios Rioja
@@ -186,7 +186,7 @@ http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
 #EXTINF:-62,Metro TV Canal 12 Tucuman
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
-#EXTINF:-63,Mirador
+#EXTINF:-63 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg",Mirador
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
 #EXTINF:-64,Mix 24-7
