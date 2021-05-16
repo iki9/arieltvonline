@@ -3,7 +3,7 @@
 #EXTINF:-1,Telefe
 https://telefe.com/vivo/
 
-#EXTINF:-2,Telefe Neuquen
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" ,Telefe Neuquen
 https://neuquen.telefe.com/vivo
 
 #EXTINF:-3,Telefe Tucuman
@@ -12,16 +12,16 @@ https://tucuman.telefe.com/vivo
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/133px-Telefe_C%C3%B3rdoba_%282018%29.png",Telefe Cordoba
 https://cordoba.telefe.com/vivo
 
-#EXTINF:-5,Telefe Rosario
+#EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png",Telefe Rosario
 https://rosario.telefe.com/vivo
 
-#EXTINF:-6,Telefe Santa Fe
+#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Telefe_Santa_Fe.png/133px-Telefe_Santa_Fe.png",Telefe Santa Fe
 https://santafe.telefe.com/vivo
 
-#EXTINF:-7,Telefe Salta
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/800px-Telefe_Salta_%282018%29.png",Telefe Salta
 https://salta.telefe.com/vivo
 
-#EXTINF:-8,Telefe Mar del Plata
+#EXTINF:-8 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Telefe_Mar_del_Plata_%282018%29.png/133px-Telefe_Mar_del_Plata_%282018%29.png",Telefe Mar del Plata
 https://mardelplata.telefe.com/vivo
 
 #EXTINF:-9,América Hd
@@ -42,7 +42,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-14,RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
 
-#EXTINF:-15,Canal 10 Roca
+#EXTINF:-15 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" ,Canal 10 Roca
 http://panel.dattalive.com:1935/8204/8204/chunklist_w1122267349.m3u8
 
 #EXTINF:-16,Canal 7 Catamarca
