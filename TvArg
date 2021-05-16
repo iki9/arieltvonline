@@ -42,8 +42,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-14,RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
 
-#EXTINF:-15,Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
+#EXTINF:-15,Canal 10 Roca
+http://panel.dattalive.com:1935/8204/8204/chunklist_w1122267349.m3u8
 
 #EXTINF:-16,Canal 7 Catamarca
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
@@ -60,8 +60,8 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w1632323744.m3u8
 #EXTINF:-20,Canal 10 CBA
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w55780339_b1000000_slen.m3u8
 
-#EXTINF:-21,Canal 10 Roca
-http://panel.dattalive.com:1935/8204/8204/chunklist_w1122267349.m3u8
+#EXTINF:-21,Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 
 #EXTINF:-22,Canal 13 Jujuy
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
