@@ -144,7 +144,7 @@ http://23.237.78.54/live-1000/263/playlist.m3u8
 #EXTINF:-48,Flixtube
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
-#EXTINF:-49,Fenix
+#EXTINF:-49 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/chunklist_w760844289.m3u8
 
 #EXTINF:-50,Fm Giga 101.5 Neuquen
@@ -174,7 +174,7 @@ http://192.99.38.174:1935/litustv/ngrp:litustv_all/chunklist_w888252515_b348304.
 #EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU",Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-59,LM 24 Río Gallegos
+#EXTINF:-59 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png",LM 24 Río Gallegos
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
 
 #EXTINF:-60 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" ,Net Tv
@@ -306,7 +306,7 @@ http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1300939119.m3u8
 #EXTINF:-102,15 Tv Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w115397915.m3u8
 
-#EXTINF:-103,24/7 
+#EXTINF:-103 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" ,24/7 
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
 #EXTINF:-104 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" ,Neo Tv Digital
