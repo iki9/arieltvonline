@@ -1,47 +1,46 @@
 #EXTM3U
 
+#EXTINF:-1,Telefe
+https://telefe.com/vivo/
 
-#EXTINF:-1,A24      
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-2,Telefe Neuquen
+https://neuquen.telefe.com/vivo
 
-#EXTINF:-2,América Hd
+#EXTINF:-3,Telefe Tucuman
+https://tucuman.telefe.com/vivo
+
+#EXTINF:-4,Telefe Cordoba
+https://cordoba.telefe.com/vivo
+
+#EXTINF:-5,Telefe Rosario
+https://rosario.telefe.com/vivo
+
+#EXTINF:-6,Telefe Santa Fe
+https://santafe.telefe.com/vivo
+
+#EXTINF:-7,Telefe Salta
+https://salta.telefe.com/vivo
+
+#EXTINF:-8,Telefe Mar del Plata
+https://mardelplata.telefe.com/vivo
+
+#EXTINF:-9,América Hd
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-3,CINE.AR
+#EXTINF:-10,CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?WebM3UCL
 
-#EXTINF:-4,América Tucuman
-http://45.6.4.154/americatuc/vivo.m3u8
+#EXTINF:-11,Canal Encuentro
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
-#EXTINF:-5,Anime Zone Tv
-http://animeloving.net/hls/stream.m3u8
+#EXTINF:-12,Canal 10 Senillosa Neuquén
+https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
-#EXTINF:-6,Argentinisima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w361292135_b1912000_sleng.m3u8
+#EXTINF:-13,Tv Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:-7,Hola Tv
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-
-#EXTINF:-8,RTN Neuquén
+#EXTINF:-14,RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
-
-#EXTINF:-9,Canal 2 San Luis
-https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
-
-#EXTINF:-10,Canal 4 Bahia Blanca
-https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
-
-#EXTINF:-11,Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1358115952_b121000.m3u8
-
-#EXTINF:-12,Canal 4 Posadas
-http://184.154.28.210:1935/canal4/canal4/chunklist_w76099528.m3u8
-
-#EXTINF:-13,Canal 5 Tandil
-https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
-
-#EXTINF:-14,Canal 6 Moreno
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/chunklist_w1779844621.m3u8
 
 #EXTINF:-15,Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
@@ -97,8 +96,8 @@ https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
 #EXTINF:-32,Ciudad TV
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
-#EXTINF:-33,Canal Encuentro
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:-33,Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1358115952_b121000.m3u8
 
 #EXTINF:-34,Canal Nueve Tv
 https://live.canalnueve.tv/canal.m3u8
@@ -313,35 +312,39 @@ https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 #EXTINF:-104,Neo Tv Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-105,Canal 10 Senillosa Neuquén
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
+#EXTINF:-105,Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/chunklist_w76099528.m3u8
 
-#EXTINF:-106,Tv Publica
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+#EXTINF:-106,Canal 5 Tandil
+https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
 
-#EXTINF:-107,Telefe
-https://telefe.com/vivo/
+#EXTINF:-107,A24      
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-108,Telefe Neuquen
-https://neuquen.telefe.com/vivo
+#EXTINF:-108,Canal 2 San Luis
+https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
 
-#EXTINF:-109,Telefe Tucuman
-https://tucuman.telefe.com/vivo
+#EXTINF:-109,Canal 4 Bahia Blanca
+https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
 
-#EXTINF:-110,Telefe Cordoba
-https://cordoba.telefe.com/vivo
+#EXTINF:-110,América Tucuman
+http://45.6.4.154/americatuc/vivo.m3u8
 
-#EXTINF:-111,Telefe Rosario
-https://rosario.telefe.com/vivo
+#EXTINF:-111,Anime Zone Tv
+http://animeloving.net/hls/stream.m3u8
 
-#EXTINF:-112,Telefe Santa Fe
-https://santafe.telefe.com/vivo
+#EXTINF:-112,Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w361292135_b1912000_sleng.m3u8
 
-#EXTINF:-113,Telefe Salta
-https://salta.telefe.com/vivo
+#EXTINF:-113,Hola Tv
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-114,Telefe Mar del Plata
-https://mardelplata.telefe.com/vivo
+#EXTINF:-114,Canal 6 Moreno
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/chunklist_w1779844621.m3u8
 
-#EXTINF:-115,TN
-https://tn.com.ar/envivo/24hs/
+
+
+
+
+
+
