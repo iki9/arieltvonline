@@ -348,7 +348,7 @@ https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/pla
 #EXTINF:-116,Canal 11 Machagai Chaco
 http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
 
-#EXTINF:-117 tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png"group-title="PLUTO TV" , SCI-FI
+#EXTINF:-117 tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png"group-title="CINE/SERIES" , SCI-FI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
 
 #EXTINF:-118 tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png", SCI-FI 2
