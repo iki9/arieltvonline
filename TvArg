@@ -45,11 +45,11 @@ http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
 #EXTINF:-15 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" ,Canal 10 Roca
 http://panel.dattalive.com:1935/8204/8204/chunklist_w1122267349.m3u8
 
-#EXTINF:-16,El nueve
-https://www.elnueve.com.ar/en-vivo/
+#EXTINF:-16 tvg-logo="https://i.imgur.com/mJZHoUj.png" , ANIMALS LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 
-#EXTINF:-17,TN 24
-https://www.youtube.com/watch?v=wHn1_QVoXGM_D9Ta0
+#EXTINF:-17 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" , Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-18,Canal 7 Santiago del Estero
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
