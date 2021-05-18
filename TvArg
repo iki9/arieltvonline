@@ -135,8 +135,8 @@ http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/chunklist_w701198253.m3u8
 #EXTINF:-45 tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa Tv
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 
-#EXTINF:-46,El Chavo 24/7
-https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:-46 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png", MAGIC KIDS
+https://live.admefy.com/live/clean_peach_ef224.m3u8
 
 #EXTINF:-47 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
@@ -354,8 +354,9 @@ http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 #EXTINF:-118 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg", MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
-#EXTINF:-119,Canal 10
-https://canal10tv.com.ar/c10/?page_id=162
+#EXTINF:-119,El Chavo 24/7
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
 
 
 
