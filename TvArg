@@ -354,6 +354,9 @@ http://video.streamtvradio.com:8081/uv068/uv068/playlist.m3u8
 #EXTINF:-118 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg", MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
+#EXTINF:-119,Canal 10
+https://canal10tv.com.ar/c10/?page_id=162
+
 
 
 
