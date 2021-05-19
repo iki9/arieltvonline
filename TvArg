@@ -63,8 +63,8 @@ https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 #EXTINF:-21 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg",Ip
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
-#EXTINF:-22,Canal 13 Jujuy
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24      
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-23,Canal 13 la Rioja
 http://arcast.net:1935/mp/mp/chunklist_w396631415.m3u8
@@ -72,11 +72,11 @@ http://arcast.net:1935/mp/mp/chunklist_w396631415.m3u8
 #EXTINF:-24,Canal 20 Villamaria
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 
-#EXTINF:-25,RT
+#EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT
 https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-26,Canal 7 Santiago del Estero
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
+#EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" ,24/7 
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
 #EXTINF:-27,Canal 50 Morteros
 http://168.196.255.130:8080/canal50/vivo.m3u8
@@ -306,8 +306,8 @@ http://streamingvideo.com.ar:1935/10tv/live/chunklist_w1300939119.m3u8
 #EXTINF:-102,15 Tv Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w115397915.m3u8
 
-#EXTINF:-103 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" ,24/7 
-https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+#EXTINF:-103,Canal 7 Santiago del Estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 
 #EXTINF:-104 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" ,Neo Tv Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -318,8 +318,8 @@ http://184.154.28.210:1935/canal4/canal4/chunklist_w76099528.m3u8
 #EXTINF:-106 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png",Canal 5 Tandil
 https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
 
-#EXTINF:-107 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24      
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-107,Canal 13 Jujuy
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 #EXTINF:-108,Canal 2 San Luis
 https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
