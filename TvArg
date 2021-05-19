@@ -78,8 +78,8 @@ https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" ,24/7 
 https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 
-#EXTINF:-27,Canal 50 Morteros
-http://168.196.255.130:8080/canal50/vivo.m3u8
+#EXTINF:-27 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602", FRANCE 24 ESPAÑOL - 24.3
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
 #EXTINF:-28,Cadena 103
 http://arcast.net:1935/cadena103/cadena103/chunklist_w1406264957.m3u8
@@ -360,8 +360,9 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 #EXTINF:-120,Canal 10 CBA
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w55780339_b1000000_slen.m3u8
 
-#EXTINF:-121,Cn5
-http://tvabierta.weebly.com/c5n.html
+#EXTINF:-121,Canal 50 Morteros
+http://168.196.255.130:8080/canal50/vivo.m3u8
+
 
 
 
