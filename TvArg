@@ -81,32 +81,32 @@ https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 #EXTINF:-27 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-28,Cadena 103
-http://arcast.net:1935/cadena103/cadena103/chunklist_w1406264957.m3u8
+#EXTINF:-28 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU",Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-29,Canal 907 FM Comunicar
-https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w1911640335.m3u8
+#EXTINF:-29 tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png",Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1070617370.m3u8
 
-#EXTINF:-30,Canal Cinco Tigre
-https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w783126904.m3u8
+#EXTINF:-30 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png",Deportv
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-31,Cadena Ritmo 101.1 FM Neuquén
-https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
+#EXTINF:-31 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" ,Eco Tv
+http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/chunklist_w701198253.m3u8
 
-#EXTINF:-32,Ciudad TV
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-32 tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa Tv
+https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 
-#EXTINF:-33,Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1358115952_b121000.m3u8
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png", MAGIC KIDS
+https://live.admefy.com/live/clean_peach_ef224.m3u8
 
-#EXTINF:-34,Canal Nueve Tv
-https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-34 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg", CIUDAD MAGICA 105.1 FM AUSONIA 
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 #EXTINF:-35,Canal Nueve Parana
 https://5975e06a1f292.streamlock.net:4443/ahora/ahora/chunklist_w970179559.m3u8
 
-#EXTINF:-36 tvg-logo="https://lh3.googleusercontent.com/-mgmL8cb_jtc/XjtDrQ3HzaI/AAAAAAAAvpI/tgRhGRWSXnsz9hvxd4oPgM16JpByuhRzwCK8BGAsYHg/s0/2020-02-05.png",Chaco TV
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1070617370.m3u8
+#EXTINF:-36,Canal 907 FM Comunicar
+https://5f6e1fe8f2d2e.streamlock.net/mardelplata/mardelplata/chunklist_w1911640335.m3u8
 
 #EXTINF:-37,Chic Magazine
 https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
@@ -126,20 +126,20 @@ https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-42,Cinco TV Tigre
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
-#EXTINF:-43 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png",Deportv
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-43,Canal Cinco Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w783126904.m3u8
 
-#EXTINF:-44 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" ,Eco Tv
-http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/chunklist_w701198253.m3u8
+#EXTINF:-44,Cadena Ritmo 101.1 FM Neuquén
+https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
 
-#EXTINF:-45 tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa Tv
-https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
+#EXTINF:-45,Ciudad TV
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
-#EXTINF:-46 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png", MAGIC KIDS
-https://live.admefy.com/live/clean_peach_ef224.m3u8
+#EXTINF:-46,Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1358115952_b121000.m3u8
 
-#EXTINF:-47 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg", CIUDAD MAGICA 105.1 FM AUSONIA 
-https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+#EXTINF:-47,Canal Nueve Tv
+https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-48,Flixtube
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
@@ -171,8 +171,8 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1417561066.m3
 #EXTINF:-57 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg",Litus
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/chunklist_w888252515_b348304.m3u8
 
-#EXTINF:-58 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU",Love Nature
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
+#EXTINF:-58,Cadena 103
+http://arcast.net:1935/cadena103/cadena103/chunklist_w1406264957.m3u8
 
 #EXTINF:-59 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png",LM 24 Río Gallegos
 https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
