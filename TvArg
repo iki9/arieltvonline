@@ -57,8 +57,8 @@ http://live-edge01.telecentro.net.ar:1935/live/26hd-720/chunklist_w1344949987.m3
 #EXTINF:-19,Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1632323744.m3u8
 
-#EXTINF:-20,Canal 10 CBA
-https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w55780339_b1000000_slen.m3u8
+#EXTINF:-20 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png", CRONICA HD - 24.4
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 
 #EXTINF:-21,Canal 6 Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
@@ -356,6 +356,9 @@ https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 #EXTINF:-119,El Chavo 24/7
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
+#EXTINF:-120,Canal 10 CBA
+https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w55780339_b1000000_slen.m3u8
 
 
 
