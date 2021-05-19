@@ -54,8 +54,8 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-18 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png",Canal 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/chunklist_w1344949987.m3u8
 
-#EXTINF:-19,Canal 9 Salta
-http://panel.dattalive.com:1935/8250/8250/chunklist_w1632323744.m3u8
+#EXTINF:-19 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" , CANAL DE LA CIUDAD
+https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8 
 
 #EXTINF:-20 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png", CRONICA HD - 24.4
 https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
@@ -66,8 +66,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24      
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-23,Canal 13 la Rioja
-http://arcast.net:1935/mp/mp/chunklist_w396631415.m3u8
+#EXTINF:-23 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", CANAL 13
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8  
 
 #EXTINF:-24,Canal 20 Villamaria
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
@@ -362,6 +362,12 @@ https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w55780339_b10
 
 #EXTINF:-121,Canal 50 Morteros
 http://168.196.255.130:8080/canal50/vivo.m3u8
+
+#EXTINF:-122,Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1632323744.m3u8
+
+#EXTINF:-123,Canal 13 la Rioja
+http://arcast.net:1935/mp/mp/chunklist_w396631415.m3u8
 
 
 
