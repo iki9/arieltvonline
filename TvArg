@@ -171,20 +171,20 @@ https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-58,Chic Magazine
-https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
+#EXTINF:-58 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" , CANAL 20 VILLA MARIA CORDOBA
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 
-#EXTINF:-59,CL3 Cablevision
-http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w1972826446.m3u8
-
-#EXTINF:-60,Cnr Jujuy
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
-
-#EXTINF:-61,Crossing TV
+#EXTINF:-59 tvg-logo="http://www.crossingcontenidos.com.ar/wp-content/uploads/2020/10/LOGO-CROSSING-IPTV-300x282.png" , CROSSING TV RIO GALLEGOS
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 
-#EXTINF:-62,Canal Cinco Tigre
+#EXTINF:-60 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", CINCO TV TIGRE
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w783126904.m3u8
+
+#EXTINF:-61,CL3 Cablevision
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w1972826446.m3u8
+
+#EXTINF:-62,Cnr Jujuy
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
 #EXTINF:-63,Cadena Ritmo 101.1 FM Neuquén
 https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
@@ -204,8 +204,8 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 #EXTINF:-68,Fm Giga 101.5 Neuquen
 https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
 
-#EXTINF:-69,Canal 20 Villamaria
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+#EXTINF:-69,Chic Magazine
+https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
 
 #EXTINF:-70,Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
