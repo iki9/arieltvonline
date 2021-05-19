@@ -67,10 +67,10 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-23 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", CANAL 13
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8  
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8 
 
-#EXTINF:-24,Canal 20 Villamaria
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+#EXTINF:-24 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" , GEN TV
+https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT
 https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
@@ -153,8 +153,8 @@ https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
 #EXTINF:-51 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png",Garage Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1162828839_b746000_sleng.m3u8
 
-#EXTINF:-52,Gen Tv
-https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-52,Canal 20 Villamaria
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 
 #EXTINF:-53,Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
