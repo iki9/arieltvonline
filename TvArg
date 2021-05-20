@@ -90,8 +90,8 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1070617370.m3u8
 #EXTINF:-30 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png",Deportv
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-31 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQm4lKe3uMzJnjq38A3QLkgbFduVklg1mHu2g&usqp=CAU" ,Eco Tv
-http://mediacontrol.jargon.com.ar:1935/elecotv/elecotv/chunklist_w701198253.m3u8
+#EXTINF:-31 tvg-logo="https://elgourmet.com/theme/assets/logo.png", GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-32 tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa Tv
 https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
@@ -108,8 +108,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-36 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png",Canal 5 Tandil
 https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
 
-#EXTINF:-37 tvg-logo="https://i.imgur.com/mJZHoUj.png" , ANIMALS LIVE
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-37 tvg-logo="http://www.m3u.cl/logo/108314_Mix_24_7_Top_100.png" , MIX 24/7 TOP 100
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
 
 #EXTINF:-38 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",Fenix La Rioja
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/chunklist_w760844289.m3u8
@@ -208,26 +208,26 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 #EXTINF:-69 tvg-logo="https://giga1055.com/wp-content/uploads/2019/03/LOGO_SOLO_GIGA.png", FM GIGA 101.5 NEUQUEN
 https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
 
-#EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU", TV MANA
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-70 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" , VALLE TV NEUQUEN
+https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
 
-#EXTINF:-71,Chic Magazine
-https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
+#EXTINF:-71 tvg-logo="https://i.imgur.com/mJZHoUj.png" , ANIMALS LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 
-#EXTINF:-72,Latinos Up! Tv
-https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1484484201.m3u8?WebM3UCL
+#EXTINF:-72 tvg-logo="https://i.imgur.com/NKW3gW7.png", FOREST LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 
-#EXTINF:-73,La Voz de Tucuman
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1417561066.m3u8
+#EXTINF:-73 tvg-logo="https://i.imgur.com/ijurD8t.png", LAKES LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 
-#EXTINF:-74,Cadena 103
-http://arcast.net:1935/cadena103/cadena103/chunklist_w1406264957.m3u8
+#EXTINF:-74 tvg-logo="https://i.imgur.com/XthH1RM.png" , MOUNTAINS LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 
-#EXTINF:-75,Medios Rioja
-http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+#EXTINF:-75 tvg-logo="https://i.imgur.com/vNrFKse.png" , AURORA LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 
-#EXTINF:-76,Metro TV Canal 12 Tucuman
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-76 tvg-logo="https://i.imgur.com/NKW3gW7.png" , FOREST LIVE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 
 #EXTINF:-77,Mix 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
@@ -310,8 +310,8 @@ https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-103,Canal Nueve Tv
 https://live.canalnueve.tv/canal.m3u8
 
-#EXTINF:-104,Valle Tv Neuquen
-https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
+#EXTINF:-122,Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1358115952_b121000.m3u8
 
 #EXTINF:-105,6 Entre Ríos Tv
 https://stmv1.questreaming.com/canal6er/canal6er/playlist.m3u8
@@ -364,8 +364,25 @@ http://168.196.255.130:8080/canal50/vivo.m3u8
 #EXTINF:-121,Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w1632323744.m3u8
 
-#EXTINF:-122,Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1358115952_b121000.m3u8
+#EXTINF:-122,Chic Magazine
+https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
+
+#EXTINF:-123,Latinos Up! Tv
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1484484201.m3u8?WebM3UCL
+
+#EXTINF:-124,La Voz de Tucuman
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/chunklist_w1417561066.m3u8
+
+#EXTINF:-125,Cadena 103
+http://arcast.net:1935/cadena103/cadena103/chunklist_w1406264957.m3u8
+
+#EXTINF:-126,Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+
+#EXTINF:-127,Metro TV Canal 12 Tucuman
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
+
 
 
 
