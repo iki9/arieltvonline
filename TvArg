@@ -198,11 +198,12 @@ http://arcast.net:1935/mp/mp/chunklist_w396631415.m3u8
 #EXTINF:-66 tvg-logo="http://www.m3u.cl/logo/106258_Urban_TV.png" , URBAN TV
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
-#EXTINF:-67,Flixtube
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+#EXTINF:-67 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" , TELESOL SAN JUAN
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+https://paneltv.online:1936/8116/8116/chunklist_w1059796674.m3u8
 
-#EXTINF:-68,Fm Giga 101.5 Neuquen
-https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
+#EXTINF:-68 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" , CANAL 6 POSADAS MISIONES
+https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 
 #EXTINF:-69,Chic Magazine
 https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
@@ -210,8 +211,8 @@ https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
 #EXTINF:-70,Informacion Periodistica
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
-#EXTINF:-71,Canal 6 Posadas
-https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
+#EXTINF:-71,Fm Giga 101.5 Neuquen
+https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
 
 #EXTINF:-72,Latinos Up! Tv
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1484484201.m3u8?WebM3UCL
@@ -282,8 +283,8 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 #EXTINF:-94,CL3 Cablevision
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/chunklist_w1972826446.m3u8
 
-#EXTINF:-95,Telesol San Juan
-https://paneltv.online:1936/8116/8116/chunklist_w1059796674.m3u8
+#EXTINF:-95,Flixtube
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 #EXTINF:-96,Cadena Ritmo 101.1 FM Neuquén
 https://59537faa0729a.streamlock.net/cadenaritmo/cadenaritmo/playlist.m3u8
