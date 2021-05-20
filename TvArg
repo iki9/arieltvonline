@@ -367,6 +367,8 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w1632323744.m3u8
 #EXTINF:-122,Canal 4 Jujuy
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1358115952_b121000.m3u8
 
+#EXTINF:-123, prueba
+https://www.tvargentinahd.com/tn-en-vivo/
 
 
 
