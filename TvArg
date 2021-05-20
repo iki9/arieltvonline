@@ -190,13 +190,13 @@ https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-64 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" , TELESUR COSTA RICA
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-65 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png", CANAL 13 LA RIOJA
 http://arcast.net:1935/mp/mp/chunklist_w396631415.m3u8
 
-#EXTINF:-66,Canal Nueve Tv
-https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-66 tvg-logo="http://www.m3u.cl/logo/106258_Urban_TV.png" , URBAN TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
 
 #EXTINF:-67,Flixtube
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
@@ -306,8 +306,8 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-102,Uni Teve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-#EXTINF:-103,Urban TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+#EXTINF:-103,Canal Nueve Tv
+https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-104,Valle Tv Neuquen
 https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
