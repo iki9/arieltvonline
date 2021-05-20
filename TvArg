@@ -205,14 +205,14 @@ https://paneltv.online:1936/8116/8116/chunklist_w1059796674.m3u8
 #EXTINF:-68 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" , CANAL 6 POSADAS MISIONES
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 
-#EXTINF:-69,Chic Magazine
-https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
-
-#EXTINF:-70,Informacion Periodistica
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-
-#EXTINF:-71,Fm Giga 101.5 Neuquen
+#EXTINF:-69 tvg-logo="https://giga1055.com/wp-content/uploads/2019/03/LOGO_SOLO_GIGA.png", FM GIGA 101.5 NEUQUEN
 https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
+
+#EXTINF:-70 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_OgkXZYSihlqwaB2Uehl4D6lip7dp1nF6Ew&usqp=CAU", TV MANA
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+
+#EXTINF:-71,Chic Magazine
+https://paneltv.online:1936/8056/8056/chunklist_w27752667.m3u8
 
 #EXTINF:-72,Latinos Up! Tv
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1484484201.m3u8?WebM3UCL
@@ -298,8 +298,8 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w960760
 #EXTINF:-99,Cnr Jujuy
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-#EXTINF:-100,Tv Mana
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/chunklist_w217352228.m3u8
+#EXTINF:-100,Informacion Periodistica
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 
 #EXTINF:-101,Tvu la Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
