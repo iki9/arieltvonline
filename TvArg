@@ -376,6 +376,8 @@ https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
 #EXTINF:-124 tvg-logo="http://www.fmargentina.com.ar/Graficos/intro.png" , FM ARGENTINA 98.9 NEUQUEN
 https://stmv1.srvstm.com/fmargentina/fmargentina/playlist.m3u8
 
+#EXTINF:-125 , FUTBOL
+https://futbollibre.net/en-vivo/espn-1/
 
 
 
