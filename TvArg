@@ -69,8 +69,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-23 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",A24      
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
-#EXTINF:-24 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" , GEN TV
-https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-24 , Vibra Tv
+https://live.autistici.org/hls/vibratelevision.m3u8
 
 #EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT
 https://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
@@ -385,7 +385,8 @@ https://stmvideo2.livecastv.com/merlotv/merlotv/playlist.m3u8
 #EXTINF:-127 tvg-logo="https://milemisoras.com/img/channel/87551203ff1e7fe23845c1c0bf1810db.jpeg" , FM 99.9 - CANAL 11 SUNCHALES
 https://589ff3c36f7e8.streamlock.net/ingenio_1/ingenio_1/playlist.m3u8
 
-
+#EXTINF:-128 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" , GEN TV
+https://videohd.live:19360/8010/8010.m3u8
 
 
 
