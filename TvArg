@@ -81,8 +81,8 @@ https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 #EXTINF:-27 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-28 tvg-logo="http://tvsurvision.cl/wp-content/uploads/2020/10/LOGO-PNG.png" , TV SUR VISION
-http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
+#EXTINF:-28 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" , 74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-29 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" , LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
@@ -406,8 +406,8 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/chunklist_w760844289.m3
 #EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU",Love Nature
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-
-
+#EXTINF:-135 tvg-logo="http://tvsurvision.cl/wp-content/uploads/2020/10/LOGO-PNG.png" , TV SUR VISION
+http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
 
 
 
