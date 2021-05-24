@@ -51,8 +51,8 @@ http://panel.dattalive.com:1935/8204/8204/chunklist_w1122267349.m3u8
 #EXTINF:-17 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", CANAL 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8 
 
-#EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" , Estrella TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-volver-2016.gif" , VOLVER
+http://ottiptv.us:2095/iptvtree.com/90X312b737L26/18370
 
 #EXTINF:-19 tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png",Canal 26
 http://live-edge01.telecentro.net.ar:1935/live/26hd-720/chunklist_w1344949987.m3u8
@@ -394,7 +394,8 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1070617370.m3u8
 #EXTINF:-130 tvg-logo="http://www.m3u.cl/logo/127476_Vibra_TV.png" , VIBRA HD MONTE CASEROS
 https://live.autistici.org/hls/vibratelevision_mid.m3u8
 
-
+#EXTINF:-131 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" , Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 
 
