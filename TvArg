@@ -93,8 +93,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-31 tvg-logo="https://elgourmet.com/theme/assets/logo.png", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-32 tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa Tv
-https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
+#EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Panamericana_Televisi%C3%B3n.svg/512px-Panamericana_Televisi%C3%B3n.svg.png", PANAMERICANA TV
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png", MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
@@ -111,8 +111,8 @@ https://stmv1.srvif.com/madmultimedios/madmultimedios/playlist.m3u8
 #EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMm0MM0BtkhB9xHWsECtnky05aGfA8KKnDSg&usqp=CAU", CANAL 29 QUILMES
 http://inliveserver.com:1935/8386/8386/playlist.m3u8
 
-#EXTINF:-38 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",Fenix La Rioja
-https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/chunklist_w760844289.m3u8
+#EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" , EURONEWS
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 
 #EXTINF:-39 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png",Garage Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
@@ -397,9 +397,11 @@ https://live.autistici.org/hls/vibratelevision_mid.m3u8
 #EXTINF:-131 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" , Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
+#EXTINF:-132 tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa Tv
+https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 
-
-
+#EXTINF:-133 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",Fenix La Rioja
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/chunklist_w760844289.m3u8
 
 
 
