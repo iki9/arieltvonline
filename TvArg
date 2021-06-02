@@ -120,8 +120,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sl
 #EXTINF:-40 tvg-logo="https://www.7rioja.tv/entorno/Cabeceras/Cabecera7RIOJA.png" ,7 La Rioja
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 
-#EXTINF:-41 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png",LM 24 Río Gallegos
-https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
+#EXTINF:-41 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" , CANAL 4 MONTEVIDEO HD URUGUAY
+https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU-audio_20000=144800-video=1480000.m3u8
 
 #EXTINF:-42 tvg-logo="https://fotos.perfil.com/2018/05/26/840/0/el-nuevo-logo-de-net-tv-312529.jpg" ,Net Tv
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
