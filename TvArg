@@ -102,8 +102,8 @@ https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:-34 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-35 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" ,Neo Tv Digital
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-35 tvg-logo="https://www.rcn.com.py/file/2020/08/logo_web@footer.png", RCN TV
+https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
 #EXTINF:-36 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" , CANAL SUR ANDALUCIA
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
