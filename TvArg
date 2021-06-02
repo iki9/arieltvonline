@@ -102,8 +102,8 @@ https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:-34 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-35 tvg-logo="https://i.postimg.cc/wvfrPpZL/sabermas.png" , SABER MÁS
-https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:-35 tvg-logo="https://i.postimg.cc/qvYT7sZK/cgtnes.png" , CGTN ESPAÑOL (China)
+http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-36 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg" , CANAL SUR ANDALUCIA
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
@@ -156,8 +156,8 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w361292
 #EXTINF:-52 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg",Hola Tv
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
-#EXTINF:-53 tvg-logo="http://www.m3u.cl/logo/108679_UNIRIO.png",UNIRIO
-https://5f700d5b2c46f.streamlock.net/uniriotv/uniriotv/chunklist_w1560398999.m3u8
+#EXTINF:-53 tvg-logo="https://i.postimg.cc/yNf4G2w0/tvgalicia.png" , TV GALICIA AMÉRICA (España)
+http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
 
 #EXTINF:-54 tvg-logo="https://www.lyngsat-stream.com/logo/tv/tt/telepacifico_co.png" , TELEPACIFICO COLOMBIA
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
