@@ -81,8 +81,8 @@ https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 #EXTINF:-27 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-28 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" , 74 TV
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-28 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif", MISIONES ONLINE
+https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW5NYlx2DU7-fZvFS0Nn_iRU)/dm/3/x7zlqfx/s/live-1.m3u8
 
 #EXTINF:-29 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" , LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
@@ -411,6 +411,9 @@ http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w156856882
 
 #EXTINF:-136 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" , CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8 
+
+#EXTINF:-137 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" , 74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 
 
