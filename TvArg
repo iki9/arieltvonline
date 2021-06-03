@@ -126,11 +126,11 @@ https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Can
 #EXTINF:-42 tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2017/05/logo-oatv-footer-final.png" , ONDA ALGECIRAS ESPAÑA
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
-#EXTINF:-43 tvg-logo="https://3.bp.blogspot.com/-u8oLdnSzxJ8/XMxNT1cF3PI/AAAAAAABeME/KkR03fB72DYyynRHuAqABLOC__WL0CfUACLcBGAs/s1600/RFTP.jpg",Mirador
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-43 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" , BOOMERANG CLÁSICO
+http://96.30.193.226:81/hls/boomerang.m3u8
 
-#EXTINF:-44 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" ,Sol Tv
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
+#EXTINF:-44 tvg-logo="http://canalaster.club/gallery_gen/1ce4ce4fcf816bd5b80808bc38e053e8_800x522.67533170864_0x152.5129982669_800x800.png" , CANAL ASTER
+http://96.30.193.226:81/hls/canalaster.m3u8
 
 #EXTINF:-45 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" ,Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
