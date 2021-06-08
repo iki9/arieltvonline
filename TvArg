@@ -42,8 +42,8 @@ https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF:-14 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg",Tv Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
-#EXTINF:-15 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png",RTN Neuquén
-http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" , RTN NEUQUÉN
+http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
 
 #EXTINF:-16 tvg-logo="https://i.postimg.cc/mkVTCMF8/canal-10-rio-negro.png" , CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/chunklist_w281940778.m3u8
@@ -132,8 +132,8 @@ http://96.30.193.226:81/hls/boomerang.m3u8
 #EXTINF:-44 tvg-logo="http://canalaster.club/gallery_gen/1ce4ce4fcf816bd5b80808bc38e053e8_800x522.67533170864_0x152.5129982669_800x800.png" , CANAL ASTER
 http://96.30.193.226:81/hls/canalaster.m3u8
 
-#EXTINF:-45 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" ,Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+#EXTINF:-45 tvg-logo="https://i.postimg.cc/5NNwj7nv/speedtv.png" , SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/chunklist_w1030065714.m3u8
 
 #EXTINF:-46 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" , ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
@@ -165,8 +165,8 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-55 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" , TV PERU NOTICIAS
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-56 tvg-logo="https://image.freepik.com/free-vector/click-movie-logo-vector_18099-258.jpg", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
+#EXTINF:-56 tvg-logo="https://i.postimg.cc/XYk1SGvS/tdf.jpg" , TV PÚBLICA FUEGUINA
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
