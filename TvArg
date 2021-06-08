@@ -81,11 +81,11 @@ https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 #EXTINF:-27 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602", FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-28 tvg-logo="http://tv.misionesonline.net/wp-content/uploads/2021/02/LogoMoscaGifweb.gif", MISIONES ONLINE
-https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW5NYlx2DU7-fZvFS0Nn_iRU)/dm/3/x7zlqfx/s/live-1.m3u8
+#EXTINF:-28 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" , TELEFUTURO
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-29 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" , LIM TV
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:-29 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" , PARAVISIÓN
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-30 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png",Deportv
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
