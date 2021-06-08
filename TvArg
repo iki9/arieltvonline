@@ -45,8 +45,8 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-15 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png",RTN Neuquén
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8
 
-#EXTINF:-16 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" ,Canal 10 Roca
-http://panel.dattalive.com:1935/8204/8204/chunklist_w1122267349.m3u8
+#EXTINF:-16 tvg-logo="https://i.postimg.cc/mkVTCMF8/canal-10-rio-negro.png" , CANAL 10 RIO NEGRO
+https://panel.dattalive.com/8204/8204/chunklist_w281940778.m3u8
 
 #EXTINF:-17 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png", CANAL 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8 
