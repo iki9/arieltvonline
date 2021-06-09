@@ -171,11 +171,11 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-58 tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" , CANAL 20 VILLA MARIA CORDOBA
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
+#EXTINF:-58 tvg-logo="https://i.postimg.cc/8PCkPBbp/DWES.png", DW (Alemania)
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-59 tvg-logo="http://www.crossingcontenidos.com.ar/wp-content/uploads/2020/10/LOGO-CROSSING-IPTV-300x282.png" , CROSSING TV RIO GALLEGOS
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+#EXTINF:-59 tvg-logo="https://i.postimg.cc/NG81tbPK/tve24.png", TVE 24H
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 
 #EXTINF:-60 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png", CINCO TV TIGRE
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w783126904.m3u8
@@ -412,8 +412,6 @@ http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w156856882
 #EXTINF:-136 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" , CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8 
 
-#EXTINF:-137 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" , 74 TV
-https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 
 
