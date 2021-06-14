@@ -298,8 +298,8 @@ https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
 #EXTINF:-98 tvg-logo="http://www.canal4teleba.com.ar/img/banner.png" , TELEBA BALCARCE
 http://inliveserver.com:1935/8550/8550/playlist.m3u8
 
-#EXTINF:-99 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t31.0-8/26685868_1958993101094528_1908377306708236386_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFWPkP2qw0Fxixg4xhLvVkraZPvngY3MGtpk--eBjcwa979VHeDUonToea7uekGUQI&_nc_ohc=Mhjj89CWgCMAX9jpqAo&_nc_oc=AQmzFI2sNHh4dDh6yoNL1ojPwAWWH5haivqHmMi1HjdW5oU9UNzQr0TMCiK6jbTOESyWdqST8LStHK9Hb1f6X1Pj&_nc_ht=scontent.fepa11-1.fna&oh=4ac10c7fd15ab0331e12c1804e934a85&oe=6080FD34" , REMANZO TV CANAL 2 HERNANDARIAS ENTRE RIOS
-https://59537faa0729a.streamlock.net/canal2hernandarias/canal2hernandarias/playlist.m3u8
+#EXTINF:-99 tvg-logo="https://scontent.fepa11-1.fna.fbcdn.net/v/t1.15752-9/198129374_454189365690504_7088670961273644075_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_eui2=AeFWVbvn6ms1SiCNhefhmwutfDpHv9wX6CR8Oke_3BfoJI72ZGn-hZgcJz_73M_8vhI&_nc_ohc=xxrvl2w2mcMAX_TV5tK&_nc_ht=scontent.fepa11-1.fna&oh=c7dc0c68ece85c39cbd6713935d0d530&oe=60CA665F", GO MAX PREMIERE
+https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
 
 #EXTINF:-100 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/n/canal-sur-andalucia.jpg", CANAL SUR ANDALUCIA
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/cGhvdG9jYWxsLnR2.m3u8
@@ -412,8 +412,8 @@ https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w527562519.m3u8
 #EXTINF:-136 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" , CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8 
 
-#EXTINF:-137 tvg-logo="https://www.lu24.com.ar/wp-content/themes/Lu24_template/img/logo-lu24.svg" , LU 24 TRES ARROYOS
-http://stream.shockmedia.com.ar:1935/lu24am/lu24am/playlist.m3u8
+#EXTINF:-137 tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" , FM IBEROAMERICA 100.3 MAR DEL PLATA
+http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist.m3u8
 
 #EXTINF:-138 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1", RBD RADIO
 http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
