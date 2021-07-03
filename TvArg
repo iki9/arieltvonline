@@ -93,8 +93,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-31 tvg-logo="https://elgourmet.com/theme/assets/logo.png", GOURMET TV
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-32 tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" , Canal Catorce Mexico
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png", NET TV  27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
 #EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png", MAGIC KIDS
 https://live.admefy.com/live/clean_peach_ef224.m3u8
@@ -433,8 +433,8 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-143 tvg-logo="https://www.tiketekarg.com/imagen/tike_vivo.jpeg", TiketekArg RIO GALLEGOS
 https://59d52c5a5ce5e.streamlock.net:4443/tiketekarg/tiketekarg/playlist.m3u8
 
-#EXTINF:-144 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" , CULTURA 24 TV
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-144 tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" , Canal Catorce Mexico
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" ,Canal N
 http://186.101.216.211:8000/play/a05i
