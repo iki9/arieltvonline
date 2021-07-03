@@ -463,6 +463,18 @@ https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-153 tvg-logo="https://lh3.googleusercontent.com/-WBW5N7D_iN4/YJGw5HneZKI/AAAAAAABCLQ/nMSAtj8GvQcgtysTJc6VAzFRazYtnCNdQCK8BGAsYHg/s512/2021-05-04.png" , HITO CERO TV
 https://streaming10.zglobalhost.com:1936/8018/8018/playlist.m3u8
 
+#EXTINF:-154 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" , AIRE DE SANTA FE
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8 
+
+#EXTINF:-155 tvg-logo="https://1.bp.blogspot.com/-KpgEAsGdpDE/XUtjFb_0mpI/AAAAAAAAHDo/2tDNzjjnej8AEwBjlNPoPIPBOP6hs20hACLcBGAs/s1600/fm-activa-93-1.png" , ACTIVA TV SANTA FE
+https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
+
+#EXTINF:-156 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" , C5SF SANTA FE
+https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
+
+#EXTINF:-157 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png", C5SF 2 SANTA FE 
+https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
+
 
 
 
