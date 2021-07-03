@@ -129,8 +129,8 @@ https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-43 tvg-logo="https://cable10.com/imagenes/logo.png" , CABLE 10 HD RIO GALLEGOS
 http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
-#EXTINF:-44 tvg-logo="http://canalaster.club/gallery_gen/1ce4ce4fcf816bd5b80808bc38e053e8_800x522.67533170864_0x152.5129982669_800x800.png" , CANAL ASTER
-http://96.30.193.226:81/hls/canalaster.m3u8
+#EXTINF:-44 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" , CANAL 5 PICO TRUNCADO SANTA CRUZ
+http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 #EXTINF:-45 tvg-logo="https://i.postimg.cc/5NNwj7nv/speedtv.png" , SPEED TV CONCORDIA
 http://srv3.zcast.com.ar/speedtv/speedtv/chunklist_w1030065714.m3u8
@@ -138,8 +138,8 @@ http://srv3.zcast.com.ar/speedtv/speedtv/chunklist_w1030065714.m3u8
 #EXTINF:-46 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" , ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 
-#EXTINF:-47 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU", ESTACIÓN CRISTAL TV
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-47 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct7d60SEIxHlgbGr4904_mLl2yDhoauli-yKNiEOTrrOFKmTe1n8KJNuZF_BAUlOl5pBAiVNDgu9TQ-DkQpWNydOMBxi5-w1Adg&usqp=CAU&ec=45750088" , VE PLUS
+http://190.122.96.187:8888/http/006
 
 #EXTINF:-48 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Eitb_corp.png", EITB BASQUE
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
@@ -147,8 +147,8 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 #EXTINF:-49 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png",América Tucuman
 http://45.6.4.154/americatuc/vivo.m3u8
 
-#EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUfXn6czYrT7z_8DubKtd29uPxZi3ZtUDoIQ&usqp=CAU",Anime Zone Tv
-http://animeloving.net/hls/stream.m3u8
+#EXTINF:-50 tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png" , TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 
 #EXTINF:-51 tvg-logo="https://cdn.mitvstatic.com/programs/ar_senal-argentinisima-satelital-1_p_m.jpg",Argentinisima Satelital
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w361292135_b1912000_sleng.m3u8
@@ -171,8 +171,8 @@ https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 #EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
-#EXTINF:-58 tvg-logo="https://i.postimg.cc/8PCkPBbp/DWES.png", DW (Alemania)
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-58 tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png", TV COCINA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02780-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8850b362-804f-4cf0-a920-4f711796663f&userId=&serverSideAds=true
 
 #EXTINF:-59 tvg-logo="https://i.postimg.cc/NG81tbPK/tve24.png", TVE 24H
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
