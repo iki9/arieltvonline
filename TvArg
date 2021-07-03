@@ -186,8 +186,8 @@ http://live-edge01.telecentro.net.ar:80/live/smil:tlx.smil/chunklist_w1826436529
 #EXTINF:-62 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" , QUATRO TV RIO CUARTO
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
 
-#EXTINF:-63 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU", TELECINCO TRELEW
-https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-63 tvg-logo="http://www.m3u.cl/logo/45154_PinguinoTV.png" , EL PINGUINO TV CHILE
+http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 
 #EXTINF:-64 tvg-logo="https://multimedio.com.ar/wp-content/uploads/2019/10/Logo-Canal-11.png", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
@@ -195,8 +195,8 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-65 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png", CANAL 13 LA RIOJA
 http://arcast.net:1935/mp/mp/chunklist_w396631415.m3u8
 
-#EXTINF:-66 tvg-logo="http://www.m3u.cl/logo/106258_Urban_TV.png" , URBAN TV
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
+#EXTINF:-66 tvg-logo="http://www.ivab.es/wp-content/uploads/2020/11/LOGO-7-TELEVALENCIA-300x169.jpg" ,7 TeleValencia
+https://live-edge-rbx-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live-500/index.m3u8
 
 #EXTINF:-67 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" , TELESOL SAN JUAN
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
@@ -412,14 +412,36 @@ https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w527562519.m3u8
 #EXTINF:-136 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" , CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8 
 
-#EXTINF:-137 tvg-logo="https://img.radios.com.br/radio/lg/radio17226_1475156823.png" , FM IBEROAMERICA 100.3 MAR DEL PLATA
-http://videostream.shockmedia.com.ar:1935/fmiberoamerica/fmiberoamerica/playlist.m3u8
+#EXTINF:-137 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" , SUCESO TV PARAGUAY
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:-138 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1", RBD RADIO
-http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
+#EXTINF:-138 tvg-logo="https://i.pinimg.com/originals/27/c9/a6/27c9a690f48240790263160b279f2221.jpg", CANAL 25 REP DOMINICANA
+http://190.122.96.188:8888/http/004
 
-#EXTINF:-139 tvg-logo="http://delpueblo.somosturadio.net/wp-content/uploads/sites/9/2020/06/fm-del-pueblo1.png" , RADIO DEL PUEBLO 107.3 FM COMODORO RIVADAVIA
-https://vivo.solumedia.com:19360/fmdelpueblo/fmdelpueblo.m3u8
+#EXTINF:-139 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" , VALLEVISION  REP DOMINICANA
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-140 tvg-logo="https://i.imgur.com/TgSeikY.png" , TEN Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-141 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" ,Azteca America
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
+
+#EXTINF:-142 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/150px-Logotipo_de_Canal_13.svg.png" ,Canal 13 CHILE
+http://186.101.216.211:8000/play/ca13
+
+#EXTINF:-143 tvg-logo=",Canal 1 COLOMBIA
+http://186.101.216.211:8000/play/cuno
+
+#EXTINF:-144 tvg-logo="https://i.imgur.com/of0fNUU.png" ,Teleamazonas ECUADOR
+https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
+
+#EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" ,Canal N
+http://186.101.216.211:8000/play/a05i
+
+#EXTINF:-146 tvg-logo="https://pbs.twimg.com/profile_images/1202579558697967616/pHnuKCH7_400x400.jpg", Canal Dos 
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+
 
 
 
