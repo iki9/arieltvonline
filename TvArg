@@ -415,8 +415,8 @@ https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gc
 #EXTINF:-137 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logonuevo2.png" , SUCESO TV PARAGUAY
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:-138 tvg-logo="https://i.pinimg.com/originals/27/c9/a6/27c9a690f48240790263160b279f2221.jpg", CANAL 25 REP DOMINICANA
-http://190.122.96.188:8888/http/004
+#EXTINF:-138 tvg-logo="https://i.imgur.com/vakdxny.jpg" , CANAL 10 CANCUN
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-139 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/vallevision.png" , VALLEVISION  REP DOMINICANA
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
@@ -427,11 +427,11 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-141 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/AZTECA_33_current_logo.png" ,Azteca America
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 
-#EXTINF:-142 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Logotipo_de_Canal_13.svg/150px-Logotipo_de_Canal_13.svg.png" ,Canal 13 CHILE
-http://186.101.216.211:8000/play/ca13
+#EXTINF:-142 tvg-logo="https://i.imgur.com/Hlrdeds.png" , CANAL CAPITAL COLOMBIA
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-143 tvg-logo=",Canal 1 COLOMBIA
-http://186.101.216.211:8000/play/cuno
+#EXTINF:-143 tvg-logo=", AZTECA UNO
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-144 tvg-logo="https://i.imgur.com/of0fNUU.png" ,Teleamazonas ECUADOR
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
