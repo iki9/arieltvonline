@@ -472,8 +472,29 @@ https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
 #EXTINF:-156 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" , C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-157 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png", C5SF 2 SANTA FE 
-https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
+#EXTINF:-157 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png", CANAL 4 SAN JUAN
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-158 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg", AM 1020 SAN JUAN
+http://51.79.83.93:9998/live/am1020/chunks.m3u8
+
+#EXTINF:-159 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj", ZONDA TV SAN JUAN
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+#EXTINF:-160 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" , DEL SUR TV SAN JUAN
+http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+
+#EXTINF:-161 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png", CANAL 34 SAN JUAN
+http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-162 tvg-logo="https://www.cuidar.tv/templates/it_mighty/custom/images/cuidartv-logo.svg" , CUIDAR TV SAN JUAN
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0282
+
+#EXTINF:-163 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" , XAMA TV SAN JUAN
+https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
+
+
+
 
 
 
