@@ -208,8 +208,8 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
 #EXTINF:-69 tvg-logo="https://giga1055.com/wp-content/uploads/2019/03/LOGO_SOLO_GIGA.png", FM GIGA 101.5 NEUQUEN
 https://5f93e494d5906.streamlock.net/TvGiga1055/TvGiga1055/playlist.m3u8
 
-#EXTINF:-70 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" , VALLE TV NEUQUEN
-https://stmv1.srvstm.com/valletv/valletv/playlist.m3u8
+#EXTINF:-70 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" , CANAL 9 PARANA
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-71 tvg-logo="https://i.imgur.com/mJZHoUj.png" , ANIMALS LIVE
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
@@ -442,14 +442,14 @@ http://186.101.216.211:8000/play/a05i
 #EXTINF:-146 tvg-logo="https://pbs.twimg.com/profile_images/1202579558697967616/pHnuKCH7_400x400.jpg", Canal Dos 
 http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 
-#EXTINF:-147 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg", CANAL 10 SAN RAFAEL
-https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
+#EXTINF:-147 tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png" , TV HISTORIA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
 
-#EXTINF:-148 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg", CANAL 2 PERICO
-https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
+#EXTINF:-148 tvg-logo="https://lh3.googleusercontent.com/-WBW5N7D_iN4/YJGw5HneZKI/AAAAAAABCLQ/nMSAtj8GvQcgtysTJc6VAzFRazYtnCNdQCK8BGAsYHg/s512/2021-05-04.png" , HITO CERO TV
+https://streaming10.zglobalhost.com:1936/8018/8018/playlist.m3u8
 
-#EXTINF:-149 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU", PLAY TELEVISION SANTA FE
-http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
+#EXTINF:-149 tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png", TV ANIMALES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b00032-b77c-4a09-85aa-2efb870d9032&userId=&serverSideAds=true
 
 
 
