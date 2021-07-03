@@ -81,8 +81,8 @@ https://panel.dattalive.com/6605140/6605140/playlist.m3u8
 #EXTINF:-27 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" , FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
 
-#EXTINF:-28 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" , TELEFUTURO
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
+#EXTINF:-28 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" , TELECINCO TRELEW
+https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-29 tvg-logo="https://media.tvalacarta.info/canales/256x256/tectv.png" , TEC TV  22.5
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
@@ -123,11 +123,11 @@ https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 #EXTINF:-41 tvg-logo="https://static.flow.com.ar/images/7837/CH_LOGO/60/40/0/0/45676872071383.png" , CANAL 4 MONTEVIDEO HD URUGUAY
 https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU-audio_20000=144800-video=1480000.m3u8
 
-#EXTINF:-42 tvg-logo="http://ondaalgecirastv.com/wp-content/uploads/2017/05/logo-oatv-footer-final.png" , ONDA ALGECIRAS ESPAÑA
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-42 tvg-logo="https://i1.wp.com/canalnueve.tv/wp-content/uploads/2019/06/c9_1.png" , CANAL 9 COMODORO RIVADAVIA
+https://live.canalnueve.tv/canal.m3u8
 
-#EXTINF:-43 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" , BOOMERANG CLÁSICO
-http://96.30.193.226:81/hls/boomerang.m3u8
+#EXTINF:-43 tvg-logo="https://cable10.com/imagenes/logo.png" , CABLE 10 HD RIO GALLEGOS
+http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
 #EXTINF:-44 tvg-logo="http://canalaster.club/gallery_gen/1ce4ce4fcf816bd5b80808bc38e053e8_800x522.67533170864_0x152.5129982669_800x800.png" , CANAL ASTER
 http://96.30.193.226:81/hls/canalaster.m3u8
