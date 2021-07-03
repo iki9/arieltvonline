@@ -445,6 +445,12 @@ http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
 #EXTINF:-147 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg", CANAL 10 SAN RAFAEL
 https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
 
+#EXTINF:-148 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/logo-canal-2-perico.jpg", CANAL 2 PERICO
+https://streamcasthd.com:19360/tecnovisioncanal2/tecnovisioncanal2.m3u8
+
+#EXTINF:-149 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU", PLAY TELEVISION SANTA FE
+http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
+
 
 
 
