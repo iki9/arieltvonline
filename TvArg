@@ -397,14 +397,14 @@ https://live.autistici.org/hls/vibratelevision_mid.m3u8
 #EXTINF:-131 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/9/99/20200205000404%21Estrella_TV_-_2020_logo.png" , Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-132 tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa Tv
-https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
-
-#EXTINF:-133 tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg",Fenix La Rioja
-https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/chunklist_w760844289.m3u8
-
-#EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU",Love Nature
+#EXTINF:-132 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqRzSBSs5zOlG3bs3cJ64bHtm2HA7-MyoxJQ&usqp=CAU", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-133 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" , SABER MAS
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+
+#EXTINF:-134 tvg-logo="http://www.m3u.cl/logo/108929_Airevision_Digital.jpg" , AIREVISION PUNTA ALTA
+http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-135 tvg-logo="https://i.postimg.cc/kM0rjSvG/infinita_tv.jpg", INFINITA TV PREMIUM
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w527562519.m3u8
