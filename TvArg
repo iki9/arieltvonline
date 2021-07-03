@@ -430,11 +430,11 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 #EXTINF:-142 tvg-logo="https://i.imgur.com/Hlrdeds.png" , CANAL CAPITAL COLOMBIA
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-143 tvg-logo=", AZTECA UNO
-https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_jwma99nu/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-143 tvg-logo="https://www.tiketekarg.com/imagen/tike_vivo.jpeg", TiketekArg RIO GALLEGOS
+https://59d52c5a5ce5e.streamlock.net:4443/tiketekarg/tiketekarg/playlist.m3u8
 
-#EXTINF:-144 tvg-logo="https://pbs.twimg.com/profile_images/876963356405575681/OC2NzZip_200x200.jpg" , Somos Pergamino
-https://59c5c86e10038.streamlock.net/8178/8178/chunklis.m3u8
+#EXTINF:-144 tvg-logo="https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg" , CULTURA 24 TV
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 
 #EXTINF:-145 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" ,Canal N
 http://186.101.216.211:8000/play/a05i
