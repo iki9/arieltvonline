@@ -102,8 +102,8 @@ https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:-34 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-35 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" , MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-35 tvg-logo="https://lh3.googleusercontent.com/-KJGE0TKvI_8/YGpDWfym42I/AAAAAAABBMo/Bs78lQAvh4AdpUgsZ1R4HYCav3pdLpAFACK8BGAsYHg/s512/2021-04-04.png" , ZN NOTICIAS CALETA OLIVIA
+http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8
 
 #EXTINF:-36 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png", TERRAMIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
@@ -501,6 +501,9 @@ https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/4901065695188764
 
 #EXTINF:-166 tvg-logo="https://lh3.googleusercontent.com/-E_k6h1uVYe8/YHscpANLtMI/AAAAAAABBpM/x5nyrtk-tdMKfI9neaRMx8d0rXhI0DgYACK8BGAsYHg/s512/2021-04-17.jpg" , CANAL 10 NORTEVISION
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
+
+#EXTINF:-167 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" , MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
 
