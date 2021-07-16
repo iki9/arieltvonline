@@ -135,8 +135,8 @@ http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playli
 #EXTINF:-45 tvg-logo="https://i.postimg.cc/5NNwj7nv/speedtv.png" , SPEED TV CONCORDIA
 http://srv3.zcast.com.ar/speedtv/speedtv/chunklist_w1030065714.m3u8
 
-#EXTINF:-46 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_ADN_40.png" , ADN40
-http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF:-46 , TODO NOTICIAS       
+https://www.youtube.com/watch?v=wHn1_QVoXGM
 
 #EXTINF:-47 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct7d60SEIxHlgbGr4904_mLl2yDhoauli-yKNiEOTrrOFKmTe1n8KJNuZF_BAUlOl5pBAiVNDgu9TQ-DkQpWNydOMBxi5-w1Adg&usqp=CAU&ec=45750088" , VE PLUS
 http://190.122.96.187:8888/http/006
