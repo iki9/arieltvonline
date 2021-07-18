@@ -78,8 +78,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-26 tvg-logo="https://i.ibb.co/NTNvh66/header-ciudadmagica.jpg", CIUDAD MAGICA 105.1 FM AUSONIA 
 https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
-#EXTINF:-27 , CANAL 10 CORDOBA    
-https://www.cba24n.com.ar/canal-10-cordoba
+#EXTINF:-27 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg",Tv Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-28 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" , TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
@@ -111,8 +111,8 @@ http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-37, CANAL U CORDOBA
 https://www.cba24n.com.ar/canal-u-cordoba
 
-#EXTINF:-38  , FM 102.3 CORDOBA
-https://www.cba24n.com.ar/fm-102-3---cordoba
+#EXTINF:-38 , CANAL 10 CORDOBA    
+https://www.cba24n.com.ar/canal-10-cordoba
 
 #EXTINF:-39 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png",Garage Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
@@ -511,12 +511,6 @@ https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044
 
 #EXTINF:-169 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" , EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
-
-#EXTINF:-170 , RADIO UNIVERSAL AM 580 CORDOBA
-https://www.cba24n.com.ar/radio-universidad-am-580---cordoba
-
-#EXTINF:-171 , RADIO UNIVERSAL FM 88,5 CORDOBA
-https://www.cba24n.com.ar/radio-universidad-am-580---cordoba
 
 
 
