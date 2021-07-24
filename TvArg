@@ -54,8 +54,8 @@ https://panel.dattalive.com/8204/8204/chunklist_w281940778.m3u8
 #EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" , CANAL 13 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-19 tvg-logo="https://lavozdelpueblo.com.ar/recursos/fotos/2019/04/25/lvp.descarga.jpg",Tv Publica
-https://www.youtube.com/watch?v=3zPQ7-CtMkQ 
+#EXTINF:-19 ,Canal 9 Valle Tv
+http://stmv6.srvstm.com/valletv/valletv/playlist.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" , RTN NEUQUÉN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
