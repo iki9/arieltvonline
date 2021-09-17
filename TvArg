@@ -57,8 +57,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-19 tvg-logo="https://pxb.cdn.elchubut.com.ar/chubut/052021/1621455862510.jpg" , CHUBUT TV 90.1 FM 
 https://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
 
-#EXTINF:-20 tvg-logo="http://www.fmargentina.com.ar/Graficos/intro.png", FM ARGENTINA 98.9 NEUQUEN
-https://stmv1.srvstm.com/fmargentina/fmargentina/playlist.m3u8
+#EXTINF:-20 tvg-logo="https://cable10.com/imagenes/logo.png", CABLE 10 HD RIO GALLEGOS
+http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" , RTN NEUQUÉN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
