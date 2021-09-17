@@ -54,11 +54,12 @@ https://panel.dattalive.com/8204/8204/chunklist_w281940778.m3u8
 #EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" , CANAL 13 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-19 tvg-logo="https://pxb.cdn.elchubut.com.ar/chubut/052021/1621455862510.jpg" , CHUBUT TV 90.1 FM 
-https://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
+#EXTINF:-19 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" , CANAL ENCUENTRO 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8  
 
-#EXTINF:-20 tvg-logo="https://cable10.com/imagenes/logo.png", CABLE 10 HD RIO GALLEGOS
-http://inliveserver.com:1935/8292/8292/playlist.m3u8
+#EXTINF:-20 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" , TV PUBLICA - 23.2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+
 
 #EXTINF:-21 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" , RTN NEUQUÉN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
@@ -108,11 +109,11 @@ https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 #EXTINF:-36 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png", TERRAMIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
-#EXTINF:-37 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" , CANAL ENCUENTRO 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8  
+#EXTINF:-37 tvg-logo="https://pxb.cdn.elchubut.com.ar/chubut/052021/1621455862510.jpg" , CHUBUT TV 90.1 FM 
+https://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
 
-#EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" , TV PUBLICA - 23.2
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+#EXTINF:-38 tvg-logo="https://cable10.com/imagenes/logo.png", CABLE 10 HD RIO GALLEGOS
+http://inliveserver.com:1935/8292/8292/playlist.m3u8
 
 #EXTINF:-39 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png",Garage Tv
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w87975829_b1296000_sleng.m3u8
@@ -137,7 +138,6 @@ http://srv3.zcast.com.ar/speedtv/speedtv/chunklist_w1030065714.m3u8
 
 #EXTINF:-46 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" , FRANCE 24 ESPAÑOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-
 
 #EXTINF:-47 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRct7d60SEIxHlgbGr4904_mLl2yDhoauli-yKNiEOTrrOFKmTe1n8KJNuZF_BAUlOl5pBAiVNDgu9TQ-DkQpWNydOMBxi5-w1Adg&usqp=CAU&ec=45750088" , VE PLUS
 http://190.122.96.187:8888/http/006
