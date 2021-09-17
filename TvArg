@@ -54,8 +54,11 @@ https://panel.dattalive.com/8204/8204/chunklist_w281940778.m3u8
 #EXTINF:-18 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" , CANAL 13 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-19 ,Canal 9 Valle Tv
-http://stmv6.srvstm.com/valletv/valletv/playlist.m3u8
+#EXTINF:-19 tvg-logo="https://pxb.cdn.elchubut.com.ar/chubut/052021/1621455862510.jpg" , CHUBUT TV 90.1 FM 
+https://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
+
+#EXTINF:-20 tvg-logo="http://www.fmargentina.com.ar/Graficos/intro.png", FM ARGENTINA 98.9 NEUQUEN
+https://stmv1.srvstm.com/fmargentina/fmargentina/playlist.m3u8
 
 #EXTINF:-21 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" , RTN NEUQUÉN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
