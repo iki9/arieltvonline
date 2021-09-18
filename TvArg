@@ -325,8 +325,8 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-107 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png", ACV
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 
-#EXTINF:-108 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" , DUCK TV
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+#EXTINF:-108 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png", SOUTH PARK
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-109 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni_--nfDx7dY1f6hpnTgv3hrKLPeD4-B-4MeB5K2A=s900-c-k-c0x00ffffff-no-rj", PLANETA JUNIOR TV
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
